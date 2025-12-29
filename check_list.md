@@ -2,7 +2,7 @@
 
 ## Phase 0: Environment Setup
 - [x] Install required packages (base-devel, nasm, qemu-full, grub, xorriso, mtools)
-- [ ] Test QEMU works by booting any ISO
+- [x] Test QEMU works by booting any ISO
 - [ ] Create your project directory structure
 - [x] Set up a git repository (highly recommended for tracking progress)
 
