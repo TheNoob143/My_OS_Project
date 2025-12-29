@@ -1,5 +1,5 @@
 credits for boot.asm and kernel.c 
-#kernel
+kernel
 https://wiki.osdev.org/Bare_Bones
-#boot
+boot
 https://wiki.osdev.org/Bare_Bones_with_NASM
