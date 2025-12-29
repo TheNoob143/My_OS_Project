@@ -7,9 +7,9 @@
 - [x] Set up a git repository (highly recommended for tracking progress)
 
 ## Phase 1: First Boot - "Hello World"
-- [ ] Create boot.asm with multiboot header
+- [x] Create boot.asm with multiboot header
 - [ ] Write assembly entry point that sets up stack
-- [ ] Create kernel.c with kernel_main function
+- [x] Create kernel.c with kernel_main function
 - [ ] Implement direct VGA text mode writing (address 0xB8000)
 - [ ] Write linker script (linker.ld) for 1MB memory layout
 - [ ] Create GRUB config file (grub.cfg)
