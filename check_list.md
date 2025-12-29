@@ -1,10 +1,10 @@
 # OS Development Checklist
 
 ## Phase 0: Environment Setup
-- [ ] Install required packages (base-devel, nasm, qemu-full, grub, xorriso, mtools)
+- [x] Install required packages (base-devel, nasm, qemu-full, grub, xorriso, mtools)
 - [ ] Test QEMU works by booting any ISO
 - [ ] Create your project directory structure
-- [ ] Set up a git repository (highly recommended for tracking progress)
+- [x] Set up a git repository (highly recommended for tracking progress)
 
 ## Phase 1: First Boot - "Hello World"
 - [ ] Create boot.asm with multiboot header
