@@ -8,19 +8,19 @@
 
 ## Phase 1: First Boot - "Hello World"
 - [x] Create boot.asm with multiboot header
-- [ ] Write assembly entry point that sets up stack
+- [x] Write assembly entry point that sets up stack
 - [x] Create kernel.c with kernel_main function
-- [ ] Implement direct VGA text mode writing (address 0xB8000)
+- [x] Implement direct VGA text mode writing (address 0xB8000)
 - [x] Write linker script (linker.ld) for 1MB memory layout
 - [x] Create GRUB config file (grub.cfg)
-- [ ] Write Makefile to automate build process
+- [x] Write Makefile to automate build process
 - [x] Build and create bootable ISO
 - [x] Boot in QEMU and see text appear
 
 ## Phase 2: Screen Output Functions
-- [ ] Write function to print single character
-- [ ] Write function to print strings
-- [ ] Implement newline/carriage return
+- [x] Write function to print single character
+- [x] Write function to print strings
+- [x] Implement newline/carriage return
 - [ ] Add scrolling when reaching bottom of screen
 - [ ] Implement clearing the screen
 - [X] Add color support for text
