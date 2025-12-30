@@ -21,8 +21,8 @@
 - [x] Write function to print single character
 - [x] Write function to print strings
 - [x] Implement newline/carriage return
-- [ ] Add scrolling when reaching bottom of screen
-- [ ] Implement clearing the screen
+- [x] Add scrolling when reaching bottom of screen
+- [x] Implement clearing the screen
 - [X] Add color support for text
 
 ## Phase 3: Interrupt Handling
