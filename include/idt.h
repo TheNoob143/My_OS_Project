@@ -14,7 +14,7 @@ struct idt_entry {
 struct idt_ptr {
 	uint16_t limit;
 	uint32_t base;
-}__attribute__((packed))
+}__atrribute__((packed))
 
 void idt_init(void);
 
