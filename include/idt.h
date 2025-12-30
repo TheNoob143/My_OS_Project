@@ -18,3 +18,4 @@ struct idt_ptr {
 
 void idt_init(void);
 
+#endif
