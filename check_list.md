@@ -23,7 +23,7 @@
 - [ ] Implement newline/carriage return
 - [ ] Add scrolling when reaching bottom of screen
 - [ ] Implement clearing the screen
-- [ ] Add color support for text
+- [X] Add color support for text
 
 ## Phase 3: Interrupt Handling
 - [ ] Learn about IDT (Interrupt Descriptor Table)
