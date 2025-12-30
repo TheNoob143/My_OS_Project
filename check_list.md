@@ -3,7 +3,7 @@
 ## Phase 0: Environment Setup
 - [x] Install required packages (base-devel, nasm, qemu-full, grub, xorriso, mtools)
 - [x] Test QEMU works by booting any ISO
-- [ ] Create your project directory structure
+- [x] Create your project directory structure
 - [x] Set up a git repository (highly recommended for tracking progress)
 
 ## Phase 1: First Boot - "Hello World"
@@ -11,11 +11,11 @@
 - [ ] Write assembly entry point that sets up stack
 - [x] Create kernel.c with kernel_main function
 - [ ] Implement direct VGA text mode writing (address 0xB8000)
-- [ ] Write linker script (linker.ld) for 1MB memory layout
-- [ ] Create GRUB config file (grub.cfg)
+- [x] Write linker script (linker.ld) for 1MB memory layout
+- [x] Create GRUB config file (grub.cfg)
 - [ ] Write Makefile to automate build process
-- [ ] Build and create bootable ISO
-- [ ] Boot in QEMU and see text appear
+- [x] Build and create bootable ISO
+- [x] Boot in QEMU and see text appear
 
 ## Phase 2: Screen Output Functions
 - [ ] Write function to print single character
